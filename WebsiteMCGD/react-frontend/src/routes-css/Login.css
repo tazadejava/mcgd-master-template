@@ -1,0 +1,36 @@
+h2 {
+    text-align: center;
+}
+
+Form {
+    padding: 3rem;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+}
+
+.invalid {
+    color: darkred;
+}
+
+Label {
+    display: block;
+    text-align: left;
+    margin-top: 1rem;
+    margin-bottom: .25rem;
+}
+
+Input {
+    width: 100%;
+}
+
+.loginButton {
+    margin-top: .25rem;
+    height: 2rem;
+}
+
+.loginText {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

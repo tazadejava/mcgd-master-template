@@ -1,0 +1,142 @@
+body {
+    background: white;
+    background-size: cover; 
+    background-position: center;
+  }
+
+  .resourcesContainer {
+    width: 90%;
+  }
+  
+  /* General Font */
+  
+  p, li {
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  /* Top Nav Bar */
+  
+  div.header {
+    display:table;
+    width:100%;
+    table-layout: fixed;
+  }
+  
+  div.header span {
+    display:table-cell;
+    border: none;
+    padding: 16px 12px 12px 12px;
+  }
+  
+  nav {
+    background-color: white;
+    position: fixed; 
+    width: 100%; 
+    z-index: 999;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .panel {
+    padding: 30px;
+  }
+  
+  /* Boxes */
+  
+  .roundcorner {
+    border-radius: 25px;
+    padding: 20px;
+    margin: 15px 0px 15px 0px;
+  }
+  
+  .boxlabel {
+    text-align:center;
+    padding: 75px 0px 75px 0px;
+  }
+  
+  .boxlabel p {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  /* Sidebar Tab */
+  
+  .tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 800px;
+    Overflow-y: auto;
+  }
+  
+  .tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  .tab button:hover {
+    background-color: #ddd;
+  }
+  
+  .tab button.active {
+    background-color: #3272a6;
+    color: white;
+  }
+  
+  .tabcontent {
+    float: left;
+    padding: 12px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 800px;
+    Overflow-y: auto;
+  }
+  
+  .list-group-item button{
+    padding: 0px;
+    margin: -10px;
+  }
+
+/* Custom classes */
+
+.docsView {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.sectionTitle {
+    text-align: center;
+}
+
+.smallImage {
+    width: 10%;
+}
+
+.activeTab {
+    display: block;
+}
