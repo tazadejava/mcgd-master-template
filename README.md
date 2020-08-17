@@ -1,5 +1,9 @@
 # Master Template for Teaching MCGD - Game Development
 
+# How to use this template
+
+Simply download the repository. Most of the files are ready for use, but be sure to check out [Teaching Resources](https://minecraftgamedev.github.io/teach/) in order to complete the required components before this template can be used effectively.
+
 # Overview of files
 
 ChallengeWorldTemplates - world templates for each level
