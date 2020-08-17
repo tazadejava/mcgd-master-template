@@ -1,0 +1,8 @@
+main: MainClass
+name: TeamPlugin
+api-version: 1.13
+version: 1.0.0
+commands:
+  teamchallenge:
+    description: Team Challenge Plugin Command!
+    aliases: tc

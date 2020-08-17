@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    if userLog.length
+        table
+            tr
+                th Verification Log
+            each line in userLog
+                tr
+                    td= line.content
+    else
+        p Nothing right now!

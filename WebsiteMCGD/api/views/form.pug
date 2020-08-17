@@ -1,0 +1,16 @@
+extends layout
+
+block content
+    h3 Upload plugin files:
+
+    form(action='/upload' method='POST' encType='multipart/form-data')
+        p
+            label(for="javaplugin") JavaPlugin class file:
+            input(type='file' name='javaplugin' accept='.java' required)
+        p
+            label(for="eventlistener") EventListener class file:
+            input(type='file' name='eventlistener' accept='.java' required)
+
+        input(type="submit" value="Upload Files")
+    
+    

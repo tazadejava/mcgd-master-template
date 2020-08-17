@@ -1,0 +1,1 @@
+Note that these scripts are not meant to be used without modification, and they will not work without modification. They are templates that are meant to help you determine how to automate server startup and resetting quicker than doing it manually.

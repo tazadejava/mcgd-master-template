@@ -1,0 +1,7 @@
+{
+	"header": "CHALLENGE WEEK 6",
+	"title": "The Arena",
+	"link": "https://drive.google.com/uc?export=download&id=1DUjskpqAUasOb8lXZYNwLhi9kQ13nZIU",
+	"description": "Defeat as many monsters as possible before the timer runs out! You have until 4:30pm (EST) to achieve the highest monster kill count out of all student groups.",
+	"constraints": "You cannot directly call remove/set the health of any entity. Otherwise, go wild!"
+}

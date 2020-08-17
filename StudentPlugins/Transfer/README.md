@@ -1,0 +1,1 @@
+Levels 2 and 4 have the MainClass hidden, since some code exists within those classes that, if seen, would spoil the challenge. Thus, they are transferred into the plugin after the user uploads their files and before the plugin is compiled.

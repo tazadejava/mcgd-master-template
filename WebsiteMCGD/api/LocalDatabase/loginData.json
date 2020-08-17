@@ -1,0 +1,6 @@
+{
+  "WEBSITE-USERNAME": {
+    "password": "PASSWORD",
+    "cookiePassword": "STORED_PASSWORD (use a random UUID)"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"header": "CHALLENGE WEEK 3",
+	"title": "Timing is Everything",
+	"link": "https://drive.google.com/uc?export=download&id=1Y8Sg7VoocwTiik5FLW-1zTNww7qe1QZK",
+	"description": "Use Minecraft events and/or commands to get all players to the winning beacon platforms without dying!",
+	"constraints": "General constraints: you can't set op/gamemode status to fly. NOTE: this challenge will be more restrictive to encourage using new solutions: no changing difficulty, no flying of any kind (including elytras), no potion effects can be given to players through code, and finally, you cannot give the player items and must place items in the respective chests to give items."
+}

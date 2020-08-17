@@ -1,0 +1,7 @@
+{
+	"header": "CHALLENGE WEEK 5",
+	"title": "The Mystical Redstone Sheep",
+	"link": "https://drive.google.com/uc?export=download&id=1rjG8qjN4lb7WvcHytLkb72YPeZq7ng2x",
+	"description": "Find the mystical redstone sheep island hidden in the JSON file named sheepLocation.json, then solve the redstone puzzle to save the answers in a JSON file called solution.json and beat the challenge!",
+	"constraints": "You can use commands and events, but you may only use the PlayerShearEntityEvent, and you can only use commands when you are not on the mystical redstone sheep island. When on the island, you can only place/break redstone-related items."
+}

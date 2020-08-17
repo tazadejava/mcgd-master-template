@@ -1,0 +1,7 @@
+{
+	"header": "CHALLENGE WEEK 4",
+	"title": "Ravager Islands",
+	"link": "https://drive.google.com/uc?export=download&id=12MuNYCxvoHl6s9FS1q_cvpSK6qmlAez8",
+	"description": "Use Minecraft events and/or commands to find and defeat the ravager! The ravager can only be hurt using one item... what can it be?",
+	"constraints": "General constraints: you can't set op/gamemode status to fly. You also cannot change game difficulty. Finally, you cannot send player messages using sendMessage, broadcastMessage, nor use System.out.print. Like in challenge 2, you will not be given the MainClass, but it will be supplied after you upload the other 3 java files."
+}

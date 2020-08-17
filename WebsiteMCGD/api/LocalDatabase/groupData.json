@@ -1,0 +1,44 @@
+{
+  "group1": {
+    "members": [
+      "NAME1",
+      "NAME2..."
+    ],
+    "serverAddress": ""
+  },
+  "group2": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group3": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group4": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group5": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group6": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group7": {
+    "members": [
+    ],
+    "serverAddress": ""
+  },
+  "group8": {
+    "members": [
+    ],
+    "serverAddress": ""
+  }
+}
